@@ -1,0 +1,9 @@
+PyQt6==6.6.1
+persiantools==4.1.0
+jdatetime==4.1.1
+pandas==2.1.4
+openpyxl==3.1.2
+reportlab==4.0.8
+sqlite3
+python-bidi==0.4.2
+arabic-reshaper==3.0.0
